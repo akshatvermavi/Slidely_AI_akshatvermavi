@@ -16,3 +16,5 @@ C:\Users\aksha\source\repos\SlidlyAI\SlidlyAI\obj\Debug\net8.0-windows\SlidlyAI.
 C:\Users\aksha\source\repos\SlidlyAI\SlidlyAI\obj\Debug\net8.0-windows\ref\SlidlyAI.dll
 C:\Users\aksha\source\repos\SlidlyAI\SlidlyAI\obj\Debug\net8.0-windows\SlidlyAI.Create_New_Submission.resources
 C:\Users\aksha\source\repos\SlidlyAI\SlidlyAI\obj\Debug\net8.0-windows\SlidlyAI.View_Submission.resources
+C:\Users\aksha\source\repos\SlidlyAI\SlidlyAI\obj\Debug\net8.0-windows\SlidlyAI.CreateSubmissionForm.resources
+C:\Users\aksha\source\repos\SlidlyAI\SlidlyAI\obj\Debug\net8.0-windows\SlidlyAI.sourcelink.json
